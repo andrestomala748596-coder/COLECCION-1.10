@@ -1,0 +1,24 @@
+[
+  {
+    "CATEGORIA": "MARVEL",
+    "TMDB_ID": 24428,
+    "ID_VIDEO": null,
+    "PLATAFORMA": "ok.ru",
+    "TITULO": "Avengers: Los Vengadores",
+    "FECHA": "2012-04-25",
+    "PORTADA": "https://image.tmdb.org/t/p/w500/cWNIua1iPA4kGyQxJGvnx7UIzoT.jpg",
+    "BACKDROP": "https://image.tmdb.org/t/p/w500/9BBTo63ANSmhC4e6r62OJFuK2GL.jpg",
+    "GENERO": "Ciencia ficción, Acción, Aventura",
+    "RATING": 8.08,
+    "DURACION": 143,
+    "FRASE_PROMOCIONAL": "Los héroes más poderosos de la tierra juntos.",
+    "SINOPSIS": "Cuando un enemigo inesperado surge como una gran amenaza para la seguridad mundial, Nick Fury, director de la Agencia SHIELD, decide reclutar a un equipo para salvar al mundo de un desastre casi seguro. Adaptación del cómic de Marvel \"Los Vengadores\", el legendario grupo de superhéroes formado por Ironman, Hulk, Thor y el Capitán América entre otros.",
+    "ACTORES": "  • Robert Downey Jr. (Tony Stark / Iron Man)\n  • Chris Evans (Steve Rogers / Captain America)\n  • Mark Ruffalo (Bruce Banner / The Hulk)\n  • Chris Hemsworth (Thor)\n  • Scarlett Johansson (Natasha Romanoff / Black Widow)",
+    "DIRECTOR": "Joss Whedon",
+    "TRAILER": "https://youtube.com/watch?v=yNXfOOL8824",
+    "URLS": [
+      "https://ok.ru/video/8983265741377"
+    ],
+    "METODO": "MANUAL"
+  }
+]
